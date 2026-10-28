@@ -1,6 +1,6 @@
 ## LLM Report
 - **Date:**
-- **Project Phase:** 
-- **Tool Used:** 
+- **Tool Used:**
+- **Prompt:**
 - **Purpose:**
 - **Student overview:** 
