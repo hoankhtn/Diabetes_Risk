@@ -6,3 +6,6 @@
 - features.py: Gộp bảng (D1), xử lý thời gian (D2), tạo biến mới (D3)
 - stats_and_ml.py: Kiểm định/Bootstrap (D5), Robustness (D6) & ML Pipeline
 - visualization.py: Các hàm vẽ biểu đồ chuẩn hóa (đủ title, axes, unit, legend)
+
+Hướng dẫn và ví dụ kiểm tra dòng, merge, làm sạch cột số:
+[docs/preprocessing.md](docs/preprocessing.md).
